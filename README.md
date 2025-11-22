@@ -223,7 +223,7 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name** - [GitHub Profile](https://github.com/your-username)
+**Safak** - [GitHub Profile](https://github.com/safak)
 
 ---
 
